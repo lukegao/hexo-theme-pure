@@ -36,7 +36,7 @@ site:
 
 # config
 config:
-  skin: theme-green # 主题颜色 theme-black theme-blue theme-green theme-purple
+  skin: theme-black # 主题颜色 theme-black theme-blue theme-green theme-purple
   layout: main-center # 布局方式 main-left main-center main-right
   toc: true # 是否开启文章章节目录导航
   menu_highlight: true # 是否开启当前菜单高亮显示
@@ -150,7 +150,7 @@ douban:
 
 # profile
 profile:
-  enabled: true # Whether to show profile bar
+  enabled: false # Whether to show profile bar
   avatar: images/avatar.jpg
   gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
   author: Luke Gao
